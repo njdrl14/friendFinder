@@ -1,0 +1,14 @@
+.jumbotron {
+    padding-top: 5px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+    color: inherit;
+    background-color: #F1E8B8;
+    text-align: center;
+}
+hr {
+	margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid blue;
+}
